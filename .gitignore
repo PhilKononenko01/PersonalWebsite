@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store  # macOS thumbnail cache
+Thumbs.db  # Windows thumbnail cache
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore node_modules 
+node_modules/
